@@ -1,0 +1,3 @@
+-- Sub-topic : Index
+-- Module    : 05-sql-postgresql
+-- TODO: write your SQL practice queries here

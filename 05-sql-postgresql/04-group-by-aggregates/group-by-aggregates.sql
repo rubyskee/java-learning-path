@@ -1,0 +1,3 @@
+-- Sub-topic : GROUP BY & Aggregates
+-- Module    : 05-sql-postgresql
+-- TODO: write your SQL practice queries here

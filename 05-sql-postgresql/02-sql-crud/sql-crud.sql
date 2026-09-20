@@ -1,0 +1,3 @@
+-- Sub-topic : SQL CRUD
+-- Module    : 05-sql-postgresql
+-- TODO: write your SQL practice queries here

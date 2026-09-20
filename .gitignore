@@ -1,0 +1,42 @@
+
+# >>> java-fundamental-learning ignore rules >>>
+
+# Build output (Java / Maven / Gradle)
+target/
+build/
+out/
+*.class
+hs_err_pid*
+replay_pid*
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Node.js (frontend module)
+node_modules/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# <<< java-fundamental-learning ignore rules <<<
